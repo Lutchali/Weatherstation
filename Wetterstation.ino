@@ -1,3 +1,15 @@
+/*Code by github.com/Lutchali*/
+
+/*Disclaimer*/
+/*Tis is still under active devellopment.
+ * For updates check out my github.*/
+/*Disclaimer*/
+
+/*You're free to use any part of my code,
+ * but if you want to publish it on the internet
+ * and use bigger parts of it,
+ * just put my name in somewhere.
+ */
 /*  Verdrahtung NodeMCU:
  *   Touch:
  *      T_IRQ         D1
