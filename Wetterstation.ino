@@ -10,7 +10,7 @@
  * and use bigger parts of it,
  * just put my name in somewhere.
  */
-/*  Verdrahtung NodeMCU:
+/*  Wiring NodeMCU:
  *   Touch:
  *      T_IRQ         D1
  *      T_DO          D6
